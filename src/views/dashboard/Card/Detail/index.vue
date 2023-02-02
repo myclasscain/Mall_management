@@ -56,9 +56,6 @@ export default {
   height: 51px;
   line-height: 50px;
 }
-.card-charts svg {
-  margin: 0 4px;
-}
 
 .card-footer {
   margin-top: 10px;
